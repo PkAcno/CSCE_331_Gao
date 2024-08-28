@@ -1,1 +1,1 @@
-# CSCE_331_Gao
+# William Gao's CSCE 331 github repository
